@@ -1,0 +1,1 @@
+"elevator.c" OPTIMIZE (8,SPEED) BROWSE DEBUG OBJECTEXTEND PRINT(.\Listings\elevator.lst) TABS (2) OBJECT(.\Objects\elevator.obj)
